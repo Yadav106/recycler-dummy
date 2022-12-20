@@ -45,7 +45,7 @@
             android:text="Number"/>
 
         <ImageView
-            android:id="@+id/call"
+            android:id="@+id/btnCall"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             android:layout_width="45dp"
